@@ -1,0 +1,12 @@
+[
+  {
+    "name": "Clair Perf",
+    "description": "Watches frame pacing and lowers Clair's glass blur only when Spotify drops frames.",
+    "preview": "preview.png",
+    "main": "clair-perf.js",
+    "readme": "README.md",
+    "branch": "master",
+    "authors": [{ "name": "VictorGugug", "url": "https://github.com/VictorGugug" }],
+    "tags": ["performance", "glass", "clair"]
+  }
+]
